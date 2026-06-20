@@ -1,0 +1,9 @@
+El dominio de la terminal es una habilidad fundamental para cualquier desarrollador, ya que ofrece un control absoluto sobre el entorno de trabajo.
+A diferencia de las interfaces gráficas, la línea de comandos permite navegar por estructuras de archivos complejas de forma rápida y eficiente.
+Esto se vuelve indispensable al gestionar proyectos grandes donde buscar carpetas con el mouse ralentiza el flujo de desarrollo, si bien para proyectos pequeños, es fácil buscar de forma, a la hora de hacerlo en proyectos grandes, la tarea se complica bastante, ahí es donde es necesario el terminal.
+Además, la terminal es el puente directo para interactuar de manera fluida con herramientas esenciales como los sistemas de control de versiones.
+Conocer estos comandos de organización nos permite crear, mover y estructurar directorios en segundos sin depender de trabajo manual, "automatizándolo" simplemente utilizando los comandos específicos necesarios.
+La posibilidad de automatizar tareas repetitivas mediante comandos se vuelve viable únicamente cuando entendemos cómo movernos por la consola.
+También es una competencia clave al trabajar en servidores remotos o entornos en la nube, donde las interfaces visuales no existen como GitHub por ejemplo.
+Dominar esta herramienta no solo optimiza el tiempo diario, sino que reduce la fricción al integrar diferentes tecnologías en un proyecto.
+Finalizando, la terminal transforma la gestión de archivos en un proceso ágil, preciso y vital para el perfil profesional de un programador.
