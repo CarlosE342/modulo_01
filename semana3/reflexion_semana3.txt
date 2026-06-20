@@ -1,0 +1,9 @@
+Mantener un registro de cambios detallado mediante herramientas como Git es crucial porque garantiza la trazabilidad completa en el desarrollo de software.
+Esta práctica permite saber con total precisión quién, qué, cuándo y por qué se modificó una línea específica de código dentro de cualquier archivo.
+Al contar con este historial, los desarrolladores pueden experimentar con nuevas funcionalidades sin el temor de romper la versión estable del proyecto, ya que si algo sale mal, tienen la opción de volver al "punto seguro" o commit anterior.
+Si se llega a introducir un error crítico en el sistema, Git facilita revertir el código a un punto de restauración previo en cuestión de segundos.
+Además, este control de versiones actúa como una red de seguridad que elimina la necesidad de duplicar carpetas con nombres confusos y obsoletos.
+En el ámbito del trabajo colaborativo, la herramienta es indispensable para fusionar las contribuciones de múltiples programadores sin sobrescribir código ajeno.
+También funciona como una bitácora de documentación viva, lo que facilita enormemente el proceso de integración de nuevos miembros al equipo técnico, por esto mismo es crucial documentar correctamente el código y los cambios que se realice, no solo para nosotros, sino para la posteridad.
+Por último, el uso de Git optimiza la auditoría de calidad y la entrega continua, acelerando la detección y la posterior solución de errores.
+En definitiva, un registro estructurado transforma el desorden potencial en un flujo de trabajo transparente, seguro, altamente escalable y profesional.
